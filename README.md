@@ -11,4 +11,4 @@ Little tool useful when wanting start build sessions whitout having to switch ar
 
 
 #
-[Download](https://github.com/LAbyOne/CNFT/blob/main/CNFT.dmg)
+[Download](https://raw.githubusercontent.com/LAbyOne/CNFT/main/CNFT.dmg)
